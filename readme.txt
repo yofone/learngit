@@ -5,4 +5,5 @@ git is upload from local to www
 git is OK
 git is download from www to local
 create a new branch is quick and simple
-add merge
+add mergei
+update from github
